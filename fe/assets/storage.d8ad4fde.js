@@ -1,0 +1,1 @@
+const s="transactions";function e(){const t=localStorage.getItem(s);return t?JSON.parse(t):[]}function r(t){const n=e();return n.unshift(t),localStorage.setItem(s,JSON.stringify(n)),n}export{r as a,e as g};

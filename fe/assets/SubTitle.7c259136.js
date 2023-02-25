@@ -1,0 +1,1 @@
+import{_ as s}from"./index.ac35c7db.js";import{h as n,o as t,d as a,t as o}from"./vendor.82ee877c.js";const _={key:0},i={key:1},r=n({props:{title:String,type:{type:String,default:"h2"}},setup(e){return(c,d)=>e.type==="h1"?(t(),a("h1",_,o(e.title),1)):(t(),a("h2",i,o(e.title),1))}});var u=s(r,[["__scopeId","data-v-efa8faa0"]]);export{u as S};
